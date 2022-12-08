@@ -1,3 +1,12 @@
+Folder Structures:
+```
+- index.js
+- features
+   - test.feature
+-- stepDefinition
+   - step.js
+```
+
 ```
 nvm use
 npm i
