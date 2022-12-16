@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cucumber/cucumber": "^8.9.0",
+    "@cucumber/cucumber": "8.9.1",
     "@cucumber/pretty-formatter": "^1.0.0"
   }
 }

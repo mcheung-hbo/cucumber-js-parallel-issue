@@ -1,3 +1,6 @@
+Issue is fixed in cucumber.js`
+Issue found on [cucumber.js 8.9.0](https://www.npmjs.com/package/@cucumber/cucumber/v/8.9.0) that is fixed on [cucumber.js 8.9.1](https://www.npmjs.com/package/@cucumber/cucumber/v/8.9.1).
+
 Folder Structures:
 ```
 - index.js
